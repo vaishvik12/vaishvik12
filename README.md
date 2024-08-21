@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vaisvhik, from Himalayas of India 
 - 👀 I’m interested in sofware development 
-- 🌱 I’m currently learning hibernate
+- 🌱 I’m currently learning spring and springboot
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Connect me via. my linked in profile 
 
